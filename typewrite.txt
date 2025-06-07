@@ -1,0 +1,42 @@
+<style>
+  #header_block {
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+  }
+  #hb_desc {
+    color: #007bff;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    display: inline-block;
+    animation: blink-caret 0.75s step-end infinite;
+    margin-bottom: 10px;
+  }
+  #hb_title {
+    font-size: 24px;
+  }
+  @keyframes blink-caret {
+    50% { border-color: transparent; }
+  }
+</style>
+
+<div id="header_block">
+  <span id="hb_desc"></span><br>
+  <span id="hb_title">{$mybb->settings['bbname']}</span>
+</div>
+
+<script>
+  const text = "Welcome to our board 😊";
+  const desc = document.getElementById('hb_desc');
+  let i = 0;
+
+  function typeWriter() {
+    if (i < text.length) {
+      desc.innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 100);
+    }
+  }
+  typeWriter();
+</script>
