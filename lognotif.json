@@ -1,0 +1,21 @@
+{
+  "title": "⚠️ Server Offline Notice",
+  "description": "The web server is currently offline and inaccessible. This is an unexpected outage, not scheduled maintenance. Users may experience complete unavailability or error messages during this time.",
+  "fields": [
+    {
+      "name": "🟠 Current Status",
+      "value": "**Offline since:** 8:22 AM EST, 06/24\n**Estimated downtime:** Could last from several minutes up to 3–4 hours"
+    },
+    {
+      "name": "📢 Additional Information",
+      "value": "- We are actively investigating the issue to restore full service as soon as possible.\n- Efforts are underway to improve caching, performance, and implement more reliable tunneling solutions.\n- Please note that cached or previously loaded content might still be viewable, but real-time updates will be unavailable."
+    },
+    {
+      "name": "🔄 Recommended Actions",
+      "value": "- If you receive an error, please try clearing your browser cache or use a private/incognito window once the server is back online.\n- Stay tuned for further updates."
+    }
+  ],
+  "footer": {
+    "text": "Thank you for your understanding and patience."
+  }
+}
