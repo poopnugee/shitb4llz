@@ -1,12 +1,7 @@
 {
-  "log4": [
-    "-----------",
-    "STATUS WILL BE UPDATED HERE, WHEN COMPLETE!",
-    "-----------",
-    "ALL AUTHENTICATION ! HAS BEEN REMOVED UNTIL FURTHER NOTICE",
-    "-----------",
-    "STATUS will update HERE, when COMPLETE!",
-    "-----------",
-    "ETA: 24-72 Hours"
-]
+  "version": "0.1.30-alpha.8-EP-9H8U8VB8",
+  "logs": [
+    "Added: Core licensing",
+    "Updated: Minor UI Adjustments"
+  ]
 }
