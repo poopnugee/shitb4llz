@@ -1,7 +1,4 @@
 {
-  "version": "0.1.30-alpha.8-EP-9H8U8VB8",
-  "logs": [
-    "Added: Core licensing",
-    "Updated: Minor UI Adjustments"
-  ]
+  "0.1.30-beta.8-EP-9H8U8VB8": ["Added: Core licensing", "Updated: Minor UI Adjustments"],
 }
+
