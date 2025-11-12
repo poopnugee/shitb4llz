@@ -23,5 +23,18 @@
         "- Epitaphi-[.30-beta.5_EP-AYNOUTNH] --",
         "-------------",
         "Updated/Fixed: Licensing; Found MAJOR bug in beta.5!"
+    ],
+    "0.1.30b12": [
+        "Minedrape Initial Release! [1.0.0-MRP-H0K1384G]",
+        "-------------",
+        "Added: Stop button.",
+        "Added: Misc > Known Bugs.",
+        "Squshed: Various UI bugs.",
+        "-------------",
+        "- Epitaphi-[.1.30-beta.12-EP-AYNOUCYU] --",
+        "-------------",
+        "Added: Revised Documentation/Changelog",
+        "Fixed: Several-Minor UI Adjustments.",
+        "Fixed: Minor Display Adjustments."
     ]
 }
