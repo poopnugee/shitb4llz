@@ -36,5 +36,13 @@
         "Added: Revised Documentation/Changelog",
         "Fixed: Several-Minor UI Adjustments.",
         "Fixed: Minor Display Adjustments."
+    ],
+    "0.0.30b16:" [
+        "-- Epitaphi Patch [.30-beta.16_EP-AYNOURPB] --",
+        "-------------",
+        "Added: 'Skeleton' Page to show, if [NON-LICENSED]; Instead of basic error",
+        "Squashed: Several MAJOR bugs in licensing; Access now FULLY restored to ALL users!",
+        "Changed: Minor UI Tweaks",
+        "Moved: Version ID/Hash under User Panel"
     ]
 }
