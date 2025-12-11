@@ -44,5 +44,11 @@
         "Squashed: Several MAJOR bugs in licensing; Access now FULLY restored to ALL users!",
         "Changed: Minor UI Tweaks",
         "Moved: Version ID/Hash under User Panel"
+    ],
+    "0.1.30b20": [
+        "-- Epitaphi Patch [.30-beta.20_EP-AYNOUTNK] --",
+        "-------------",
+        "Added: MAJOR Security Fixes.",
+        "Changed: Minor UI Tweaks: User Panel"
     ]
 }
