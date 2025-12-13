@@ -51,24 +51,24 @@
         "Added: MAJOR Security Fixes.",
         "Changed: Minor UI Tweaks: User Panel"
     ],
-    "0.1.30b22": [
-	"-------------",
-        "-- Epitaphi Patch [.30-beta.22_EP-AYNOUSFJ] --",
-        "-------------",
-	"Minor UI & Bug Patch",
-        "-------------",
-	"Changed: User Portal: now displays clean and readable",
-	"Changed: User Product Page: same as above",
-	"Added: Show Products button > User Portal",
-	"Added: Quick Links & Icons for Docs and ToS > User Portal; Still needs some tweaking..",
-	"In Preparations For: [MAJOR] UI Update!",
-	"-------------",
-        "-- Minedrape Patch [1.0.1_MPE-AX8989MA] --",
-        "-------------",
-	"Minor UI & Bug Patch",
-        "-------------",
-	"Removed: [Stress Test (loadremotefile)] and [Playlist]; Playlist to be worked on",
-	"Changed: Attempt to bring back presetnames, to properly display inside FPS log	",
-	"In Preparations For: [MAJOR] Preset Update"
-   ]
+  "0.1.30b22": [
+    "-------------",
+    "-- Epitaphi Patch [.30-beta.22_EP-AYNOUSFJ] --",
+    "-------------",
+    "Minor UI & Bug Patch",
+    "-------------",
+    "Changed: User Portal: now displays clean and readable",
+    "Changed: User Product Page: same as above",
+    "Added: Show Products button > User Portal",
+    "Added: Quick Links & Icons for Docs and ToS > User Portal; Still needs some tweaking..",
+    "In Preparations For: [MAJOR] UI Update!",
+    "-------------",
+    "-- Minedrape Patch [1.0.1_MPE-AX8989MA] --",
+    "-------------",
+    "Minor UI & Bug Patch",
+    "-------------",
+    "Removed: [Stress Test (loadremotefile)] and [Playlist]; Playlist to be worked on",
+    "Changed: Attempt to bring back presetnames, to properly display inside FPS log",
+    "In Preparations For: [MAJOR] Preset Update"
+  ]
 }
