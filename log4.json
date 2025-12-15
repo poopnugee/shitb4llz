@@ -70,5 +70,15 @@
     "Removed: [Stress Test (loadremotefile)] and [Playlist]; Playlist to be worked on",
     "Changed: Attempt to bring back presetnames, to properly display inside FPS log",
     "In Preparations For: [MAJOR] Preset Update"
-  ]
+   ],
+  "0.1.3022b": [
+    "-------------",
+    "-- Minedrape Update [1.0.2_MPE-IG820GBD] --",
+    "-------------",
+    "Minor UI & 'Insider' Beta Initial Release",
+    "-------------",
+    "Added: Copy Preset Button, to help create feedback for song specific presets...",
+    "Fixed: [dev] Backend now MAJORLY cleaned",
+    "Fixed: Few Minor Semantics"  
+   ]
 }
