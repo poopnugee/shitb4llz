@@ -87,6 +87,10 @@
     "-------------",
     "Minor Bug Patch",
     "-------------",
+    "Added: (forgot from 1.0.1) : Controlla pop up when playback finishes",
+	"-- Intentional: Able to load more, or [stop] and continue off [default] settings...", 
+	"--- NEW SONG LOAD > Cycle Presets MUST be clicked again, before [Controlla] is Un-Loaded",
+	"---- Cycle Presets must definitely be hit again, to load new interval ms",
     "Fixed: Copy Text now able to copy: [ALL] or Current Loaded",
     "Changed: Version Breadcrumb",
     "In Preparations For: [MAJOR] Update: 1.1.0!"
