@@ -94,5 +94,11 @@
     "Fixed: Copy Text now able to copy: [ALL] or Current Loaded",
     "Changed: Version Breadcrumb",
     "In Preparations For: [MAJOR] Update: 1.1.0!"
+  ],
+ "0.1.30b25": [
+    "-------------",
+    "-- Epitaph Minor Patch [.30-beta.25-EP-AYNOUN68] --",
+    "-------------",
+    "[dev] Dependency Update : **Not User-Important!**"
    ]
 }
