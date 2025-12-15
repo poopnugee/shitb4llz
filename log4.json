@@ -100,5 +100,14 @@
     "-- Epitaph Minor Patch [.30-beta.25-EP-AYNOUN68] --",
     "-------------",
     "[dev] Dependency Update : **Not User-Important!**"
+   ],
+"0.1.30b26": [
+    "-------------",
+    "-- Minedrape Update [1.0.4_MPE-IG8202R8] --",
+    "-------------",
+    "Major Update[Patch]",
+    "-------------",
+    "Added: MAJOR Improvements to audio & preset handling... ;)",
+    "Fixed: Minor Syntax Mistakes"
    ]
 }
