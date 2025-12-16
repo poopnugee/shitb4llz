@@ -109,5 +109,21 @@
     "-------------",
     "Added: MAJOR Improvements to audio & preset handling... ;)",
     "Fixed: Minor Syntax Mistakes"
+   ],
+ "0.1.30b26.1": [
+    "-------------",
+    "-- Epitaph Minor Patch [.30-beta.26-EP-AYNOUBD9] --",
+    "-------------",
+    "Minor [Patch]",
+    "-------------",
+    "Removed: Licensing Error[403] Entirely..",
+    "Fixed: Minor Semantics",
+    "-------------",
+    "-- Minedrape Update [1.0.4_MPE-IG8202R8] --",
+    "-------------",
+    "Major Update[Keybinds_initial]",
+    "-------------",
+    "Added: Keybinds: \n  Insert=Open/Close | \n  NumAdd = More | \n  NumSub = Less |",
+    "Added: Fullscreen: 4x Clicks"
    ]
 }
