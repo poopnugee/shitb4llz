@@ -131,5 +131,14 @@
     "-- Epitaph Maintenance Update [.30-beta.27-EP-F7J6AHCJ] --",
     "-------------",
     "Minor Stability and Service updates"
+   ],
+  "0.1.30b29": [
+    "-------------",
+    "-- Minedrape Update [1.0.5b_MPE-IG820EI5] --",
+    "Bug Fixes",
+    "-------------",
+    "Fixed: Triple click instead of Quadruple click on Fullscreen",
+    "Fixed: ArrowRight = Skip",
+    "Fixed: Minor Pre/Perform Improvements"
    ]
 }
