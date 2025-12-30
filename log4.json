@@ -125,5 +125,11 @@
     "-------------",
     "Added: Keybinds: \n  Insert=Open/Close | \n  NumAdd = More | \n  NumSub = Less |",
     "Added: Fullscreen: 4x Clicks"
+   ],
+  "0.1.30b28": [
+    "-------------",
+    "-- Epitaph Maintenance Update [.30-beta.27-EP-F7J6AHCJ] --"
+    "-------------",
+    "Minor Stability and Service updates"
    ]
 }
