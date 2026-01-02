@@ -140,5 +140,30 @@
     "Fixed: Triple click instead of Quadruple click on Fullscreen",
     "Fixed: ArrowRight = Skip",
     "Fixed: Minor Pre/Perform Improvements"
+   ],
+  "1.1.37": [
+    "-------------",
+    "-- Epitaph Update [1.1.37_EP-825F2D245] --",
+	"-------------",
+    "Major Update/Bug Fixes",
+    "-------------",
+    "Officially moved to major version [1.x.x]",
+	"--- In Preparations For: Major Update: [2.0.x]",
+	"Added: Epitaph Case Tab to Bug Ark",
+	"Fixed-[Minor]: Version Semantic Error",
+	"- Fixed-[Minor]: Version Semantic Error",
+    "Fixed-[Minor]: Bug Ark Semantic Error",
+	"Fixed-[Minor]: Semantic Spacings",
+	"Fixed-[Minor]: Semantic Text",
+	"Trashed Leftovers...",
+    "-------------",
+    "-- Minedrape Update [1.1.4_MPE-E9C235AD] --",
+    "-------------",
+    "Bug Fixes",
+    "-------------",
+	"Officially moved to a more proper version",
+    "Fixed: Triple click instead of Quadruple click on Fullscreen",
+    "Fixed: ArrowRight = Skip",
+    "Fixed: Minor Pre/Perform Improvements"
    ]
 }
